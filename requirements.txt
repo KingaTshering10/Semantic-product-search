@@ -1,0 +1,10 @@
+sentence-transformers>=5.2,<6
+transformers[torch]==5.19.0
+langchain-huggingface[full]==1.2.3
+langchain-core>=1.6.6,<2
+numpy>=1.26,<3
+pandas>=2.2,<3
+streamlit>=1.45,<2
+jupyterlab>=4,<5
+ipykernel>=6,<8
+ipywidgets>=8,<9
